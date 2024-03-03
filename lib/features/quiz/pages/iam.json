@@ -1,0 +1,312 @@
+[
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "नेपालको संविधान कहिले जारी गरियो?",
+    "options": [
+      {
+        "option_text": "२०७२ असार १",
+        "is_correct": true
+      },
+      {
+        "option_text": "२०६३ माघ २४",
+        "is_correct": false
+      },
+      {
+        "option_text": "२०५८ जेठ १९",
+        "is_correct": false
+      },
+      {
+        "option_text": "२०४६ चैत २६",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "मानव शरीरमा कतिवटा रक्त समूहहरू हुन्छन्?",
+    "options": [
+      {
+        "option_text": "दुई",
+        "is_correct": false
+      },
+      {
+        "option_text": "चार",
+        "is_correct": true
+      },
+      {
+        "option_text": "छ",
+        "is_correct": false
+      },
+      {
+        "option_text": "आठ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "दोस्रो विश्वयुद्ध कहिले भयो?",
+    "options": [
+      {
+        "option_text": "१९१४-१९१८",
+        "is_correct": false
+      },
+      {
+        "option_text": "१९३९-१९४५",
+        "is_correct": true
+      },
+      {
+        "option_text": "१९५०-१९५३",
+        "is_correct": false
+      },
+      {
+        "option_text": "१९६०-१९६५",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "विश्वको सबैभन्दा अग्लो पर्वत शृंखला कुन हो?",
+    "options": [
+      {
+        "option_text": "हिमालय",
+        "is_correct": true
+      },
+      {
+        "option_text": "आल्प्स",
+        "is_correct": false
+      },
+      {
+        "option_text": "एन्डिज",
+        "is_correct": false
+      },
+      {
+        "option_text": "रकी पर्वत",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "रोमियो र जुलियट को कथा कसले लेखेका हुन्?",
+    "options": [
+      {
+        "option_text": "विलियम शेक्सपियर",
+        "is_correct": true
+      },
+      {
+        "option_text": "जेन अस्टिन",
+        "is_correct": false
+      },
+      {
+        "option_text": "चार्ल्स डिकेन्स",
+        "is_correct": false
+      },
+      {
+        "option_text": "जोआन रोउलिङ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "२०२३ मा विश्वकप क्रिकेट प्रतियोगिताको विजेता कुन देश हो?",
+    "options": [
+      {
+        "option_text": "भारत",
+        "is_correct": false
+      },
+      {
+        "option_text": "अष्ट्रेलिया",
+        "is_correct": true
+      },
+      {
+        "option_text": "इङ्ल्याण्ड",
+        "is_correct": false
+      },
+      {
+        "option_text": "दक्षिण अफ्रिका",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "विश्वको सबैभन्दा लामो नदी निल नदी कुन देशबाट बग्छ?",
+    "options": [
+      {
+        "option_text": "इजिप्ट",
+        "is_correct": true
+      },
+      {
+        "option_text": "ब्राजिल",
+        "is_correct": false
+      },
+      {
+        "option_text": "चीन",
+        "is_correct": false
+      },
+      {
+        "option_text": "रुस",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "दोस्रो विश्वयुद्धमा जर्मनीको नेता को थिए?",
+    "options": [
+      {
+        "option_text": "एडल्फ हिटलर",
+        "is_correct": true
+      },
+      {
+        "option_text": "जोसेफ स्टालिन",
+        "is_correct": false
+      },
+      {
+        "option_text": "विन्सटन चर्चिल",
+        "is_correct": false
+      },
+      {
+        "option_text": "फ्र्याङ्कलिन डेलानो रुजवेल्ट",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "एप्पल कम्पनीको सह-संस्थापक स्टिभ जव्स कुन देशका हुन्?",
+    "options": [
+      {
+        "option_text": "संयुक्त राज्य अमेरिका",
+        "is_correct": true
+      },
+      {
+        "option_text": "जापान",
+        "is_correct": false
+      },
+      {
+        "option_text": "बेलायत",
+        "is_correct": false
+      },
+      {
+        "option_text": "फ्रान्स",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "सन् २०२४ मा हुने ३२ औँ ग्रीष्मकालीन ओलम्पिक खेलहरू कुन सहरमा आयोजना हुँदैछ?",
+    "options": [
+      {
+        "option_text": "पेरिस",
+        "is_correct": true
+      },
+      {
+        "option_text": "टोकियो",
+        "is_correct": false
+      },
+      {
+        "option_text": "लण्डन",
+        "is_correct": false
+      },
+      {
+        "option_text": "रियो डि जेनेरो",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "बुल फाइट (गाँढा लडाई) कुन देशमा प्रचलित छ?",
+    "options": [
+      {
+        "option_text": "स्पेन",
+        "is_correct": true
+      },
+      {
+        "option_text": "भारत",
+        "is_correct": false
+      },
+      {
+        "option_text": "चीन",
+        "is_correct": false
+      },
+      {
+        "option_text": "अष्ट्रेलिया",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "नेपालको राष्ट्रिय कवि को हुनुहुन्छ?",
+    "options": [
+      {
+        "option_text": "लक्ष्मीप्रसाद देवकोटा",
+        "is_correct": true
+      },
+      {
+        "option_text": "मोहन कोइराला",
+        "is_correct": false
+      },
+      {
+        "option_text": "बासुदेव पाण्डे",
+        "is_correct": false
+      },
+      {
+        "option_text": "सिद्धिचरण श्रेष्ठ",
+        "is_correct": false
+      }
+    ]
+  },
+
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "हिन्दू धर्ममा त्रिदेव भनेर चिनिने तीन प्रमुख देवताहरू को हुन्?",
+    "options": [
+      {
+        "option_text": "विष्णु, गणेश, शिव",
+        "is_correct": false
+      },
+      {
+        "option_text": "ब्रह्मा, विष्णु, महेश्वर",
+        "is_correct": true
+      },
+      {
+        "option_text": "इन्द्र, सूर्य, चन्द्र",
+        "is_correct": false
+      },
+      {
+        "option_text": "लक्ष्मी, सरस्वती, पार्वती",
+        "is_correct": false
+      }
+    ]
+  },
+
+  {
+    "category": "699697a0-4531-4edc-b3f3-baa4a2e3f1b1",
+    "question_text": "नेपालको पहिलो त्रिभुवन अन्तर्राष्ट्रिय विमानस्थान कुन सहरमा अवस्थित छ?",
+    "options": [
+      {
+        "option_text": "काठमाडौं",
+        "is_correct": true
+      },
+      {
+        "option_text": "पोखरा",
+        "is_correct": false
+      },
+      {
+        "option_text": "भैरहवा",
+        "is_correct": false
+      },
+      {
+        "option_text": "विराटनगर",
+        "is_correct": false
+      }
+    ]
+  }
+]
